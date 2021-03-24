@@ -1,5 +1,3 @@
-# bookList
-
 <h2 align="center">bookList</h2>
 
 <p align="center">
